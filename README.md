@@ -47,10 +47,6 @@ We demonstrate the model's practical use by randomly selecting and testing a new
 
 ## PROGRAM
 
-```python
-Developed By: Jeeva Abishake A
-Register No: 212221240018
-```
 Import necessary libraries:
 ```python
 import os
